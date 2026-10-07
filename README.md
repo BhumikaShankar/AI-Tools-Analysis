@@ -1,16 +1,23 @@
 # AI Tools Analysis - Excel Dashboard
 
-This project contains an exploratory data analysis of 1012 AI tools categorized into 29 groups performed in Microsoft Excel
-Below are the actions taken:
+## Business Problem
 
-* Undertook a data profiling and quality control procedure
-* Assessed the data for missing values and duplicated entities
-* Evaluated the categories' distribution and quantity
-* Assessed descriptive statistics, including the mean, median, quartiles and interquartile range
-* Identified outliers using the IQR approach
-* Assessed average upvotes per category
-* Highlighted the 10 most common AI tools
-* Lastly, the analysis was concluded with a KPI card, charts, and a category filter
+With the rapid growth of AI tools across different use cases, users, businesses, and AI platforms face difficulty identifying which categories of AI tools are attracting the most interest and engagement.
+
+This project analyzes AI tool listings, categories, user upvotes, and engagement levels to identify:
+
+- Which AI tool categories receive the highest user interest
+- Which individual tools have the strongest user engagement
+- Whether certain categories consistently attract more engagement than others
+- How user interest is distributed across different AI use cases
+- Which AI categories may represent potential opportunities for businesses, developers, or AI product creators
+
+The goal is to use data-driven insights to understand **AI market demand and user preferences**, helping stakeholders make better decisions about which AI categories to explore, develop, promote, or invest in.
+
+## Business Question Trying to be solved
+
+**Which AI tool categories and use cases are attracting the most user interest, and what does user engagement reveal about potential opportunities in the AI tools market?**
+
 
 ### Key takeaways:
 
